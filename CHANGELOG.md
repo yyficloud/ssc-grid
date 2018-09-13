@@ -1,3 +1,10 @@
+## [v0.69.17]
+> 2017-09-13
+
+- **Bugfix:** Fix event is not defined in Firefox
+
+[v0.69.17]: https://github.com/yyficloud/ssc-grid/compare/v0.69.16...v0.69.17
+
 ## [master]
 > 2017-09-06
 
